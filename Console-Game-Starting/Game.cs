@@ -8,20 +8,20 @@ namespace ConsoleGame
       x = 0;
       y = 0;
       switch (keyPressed) {
-        case "LeftArrow":
+        case "A":
         x --;
         break;
         
-        case "RightArrow":
+        case "D":
         x ++;
         break;
         
-        case "DownArrow":
-        y --;
+        case "S":
+        y ++;
         break;
         
-        case "UpArrow":
-        y ++;
+        case "W":
+        y --;
         break;
 
         default:
@@ -33,28 +33,28 @@ namespace ConsoleGame
     public new static char UpdateCursor(string keyPressed)
         {
 
-          char direction = 'o'; // First we set a variable named direction 
+          char direction = 'o';  
 
         switch(keyPressed)
             {
-                case "UpArrow":
-                    direction = '^';
+                case "W":
+                    direction = 'w';
                     break;
 
-                case "DownArrow":
-                    direction = 'v';
+                case "S":
+                    direction = 's';
                     break;
 
-                case "LeftArrow":
-                    direction = '<';
+                case "A":
+                    direction = 'a';
                     break;
 
-                case "RightArrow":
-                    direction = ('>');
+                case "D":
+                    direction = 'd';
                     break;
             }
 
-            return direction; //Finaly, we return the direction to the program
+            return direction; 
         }    public new static int KeepInBounds(int coordinate, int maxValue) {
       
       if (coordinate > maxValue) {
