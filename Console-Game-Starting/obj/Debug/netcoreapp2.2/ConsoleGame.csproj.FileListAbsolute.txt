@@ -1,0 +1,4 @@
+/Users/Java/Desktop/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.csprojAssemblyReference.cache
+/Users/Java/Desktop/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.AssemblyInfoInputs.cache
+/Users/Java/Desktop/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.AssemblyInfo.cs
+/Users/Java/Desktop/Console-Game-Starting/obj/Debug/netcoreapp2.2/ConsoleGame.csproj.CoreCompileInputs.cache

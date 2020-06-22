@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4RfVHIgHOOmuLx755PMWV/d0xwbrG8FQhfqYxoO/pi9xhQroLGx8k+qbrJThntQ1DjruEaRc69ZVbVhDlL7zg==",
+  "success": true,
+  "projectFilePath": "/Users/Java/Desktop/Console-Game-Starting/ConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/Java/.nuget/packages/microsoft.netcore.app/2.2.0/microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "/Users/Java/.nuget/packages/microsoft.netcore.dotnetapphost/2.2.0/microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "/Users/Java/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.2.0/microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "/Users/Java/.nuget/packages/microsoft.netcore.dotnethostresolver/2.2.0/microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "/Users/Java/.nuget/packages/microsoft.netcore.platforms/2.2.0/microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "/Users/Java/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "/Users/Java/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
